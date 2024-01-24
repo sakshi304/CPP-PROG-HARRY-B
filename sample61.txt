@@ -1,0 +1,1 @@
+This is content to be stored in st2  :reading from file  : sample61

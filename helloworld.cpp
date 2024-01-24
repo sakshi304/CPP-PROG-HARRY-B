@@ -19,8 +19,8 @@
 using namespace std;
 
 int main(){
-   int a=3;
-   int*b =&a;
-   cout<<"value "<<b;
+   int* a=&x;
+   int x=9;
+   int temp =a;
    return 0;
 }

@@ -42,7 +42,7 @@ int main(){
 
     cout<<*(p++)<<endl;      // first print then increment p++ = 45
     cout<<*(++p)<<endl;      // first increment then print ++p = 455
-    
+    cout<<"adress of P "<< &p;
     
     return 0;
 }

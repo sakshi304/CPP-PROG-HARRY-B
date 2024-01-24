@@ -8,11 +8,12 @@ public:
    }
    subtraction() {    
 
-       cout << "Subtraction is:";
+       
    }
 
    subtraction(int a, int b) {
        c = a - b;
+       cout << "Subtraction is:";
    }
 
    void display() {

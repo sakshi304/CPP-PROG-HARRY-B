@@ -2,7 +2,13 @@
     "code-runner.runInTerminal": true,
     "code-runner.clearPreviousOutput": true,
     "files.associations": {
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "system_error": "cpp",
+        "type_traits": "cpp",
+        "xlocmon": "cpp",
+        "xlocnum": "cpp",
+        "xtr1common": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
